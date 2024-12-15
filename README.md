@@ -1,5 +1,7 @@
 Is Open Ai text to Audio free open source solution for audio processing 
-this is an example usage in cooparate this in a python project case 
+this is an example usage in this in a python project we try to press given audio file and output the words
+
+
 ![Screenshot 2024-12-14 221646](https://github.com/user-attachments/assets/1dbabd68-6d06-4133-949d-b1ae6faaca9d)
 
 first time will download the model and next time will just use it if available in the project path 
